@@ -33,10 +33,19 @@ Data & AI Engineering student at Turku University of Applied Sciences.
 *Description:* Built a Django-based app to manage and review books with CRUD functionality.  
 *Tech Used:* Django, SQLite, HTML/CSS  
 
-## 🌱 Currently Learning
+**Featured Projects**  
+**Chess Engine - Pure Neural Network AI**  
+* 100% custom AI trained on my gameplay (no Stockfish)  
+* Deep learning model that adapts to my skill level  
+* Built with Python and PyTorch  
+* Provides personalized training feedback  
 
+## 🌱 Currently Learning
 - Advanced Django & WebSockets  
-- Scalable data pipelines  
+- Scalable data pipelines
+- Fullstack Javascript
+- ML
+- Big Data engineering
 
 ---
 
