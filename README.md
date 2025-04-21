@@ -1,58 +1,54 @@
-👋 Hi, I'm Ritesh Bhandari
-Data & AI Engineering student passionate about building scalable systems and extracting insights from data.
+# 👋 Hi, I'm Ritesh Bhandari  
+**Data & AI Engineering student** passionate about building scalable systems and extracting insights from data.
 
-🎓 About Me
-📚 Currently pursuing a degree in Data & AI Engineering at Turku University of Applied Sciences.
-🧠 My focus areas include Data Engineering, Machine Learning, and robust Backend Systems.
-💻 I have a strong foundation in software development principles and building efficient data pipelines.
-🌱 I'm always exploring new technologies in cloud computing, ML algorithms, and system design patterns.
+## 🎓 About Me  
+📚 Currently pursuing a degree in Data & AI Engineering at Turku University of Applied Sciences  
+🧠 **Focus areas**: Data Engineering, Machine Learning, and robust Backend Systems  
+💻 Strong foundation in software development principles and efficient data pipelines  
+🌱 Constantly exploring cloud computing, ML algorithms, and system design patterns  
 
-🛠 Technical Arsenal
-Here are some of the technologies I work with:
+## 🛠 Technical Stack  
+### Languages & Frameworks  
+`Python` `Django` `Django REST Framework` `JavaScript` `HTML/CSS`  
 
-🚀 Featured Projects
-Here are some highlights from my portfolio:
+### Databases & Tools  
+`PostgreSQL` `Redis` `Docker` `ETL Pipelines` `WebSockets`  
 
-💬 UmbraChat – Real-Time Messaging App
+### Data Science  
+`Pandas` `NumPy` `PyTorch` `Machine Learning`  
 
-Description: A robust real-time messaging web application built with Django Channels, WebSockets, Redis, and PostgreSQL. Features include private/group chats, read receipts, friend requests, and a privacy-focused design.
+## 🚀 Featured Projects  
 
-Tech Used: Django, Django Channels, Redis, WebSockets, PostgreSQL, HTML/CSS/JS
+### 💬 [UmbraChat – Real-Time Messaging App](https://github.com/riteshbhandarii/chat-systems)  
+<img src="https://raw.githubusercontent.com/riteshbhandarii/chat-systems/main/docs/screenshots/auth/01-login.destop.png" width="400" alt="UmbraChat Demo">  
 
-Live Demo: https://umbrachat.up.railway.app ✨ (Note: May take a moment to spin up on free tier)
+- **Features**: Private/group chats, read receipts, friend requests, GDPR compliance  
+- **Tech Stack**: Django Channels, WebSockets, Redis, PostgreSQL  
+- **Live Demo**: [umbrachat.up.railway.app](https://umbrachat.up.railway.app)  
 
-📊 RetailFlow – ETL Pipeline for Retail Analytics
+### 📊 RetailFlow – ETL Pipeline for Retail Analytics  
+- Built automated ETL pipeline processing 10K+ daily transactions  
+- Implemented data validation and error handling  
+- Tech: `Python` `Pandas` `PostgreSQL`  
 
-Description: Designed and implemented an automated ETL (Extract, Transform, Load) pipeline to process and analyze retail order data, providing insights for business decisions.
+### 📚 BookShelf – Django Book Management  
+- Full CRUD functionality with user authentication  
+- Responsive design with dark/light mode  
+- Tech: `Django` `SQLite` `Bootstrap`  
 
-Tech Used: Python, Pandas, PostgreSQL, ETL Concepts
+### ♟️ Chess Engine - Neural Network AI  
+- Custom NN trained on personal gameplay data  
+- Adaptive difficulty and training feedback  
+- Tech: `Python` `PyTorch` `NumPy`  
 
-📚 BookShelf – Django Book Management App
+## 🌱 Currently Learning  
+- Advanced Django patterns and WebSocket optimizations  
+- Building scalable data pipelines with Apache Airflow  
+- MLOps and model deployment strategies  
+- Big Data ecosystems (Hadoop, Spark)  
 
-Description: Developed a full-stack web application using Django for managing a personal book collection, including adding, viewing, updating, and deleting book entries.
+## 📫 Get In Touch  
+📧 **Email**: [bhanrit@gmail.com](mailto:bhanrit@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/ritesh-bhandari-0371b5294](https://linkedin.com/in/ritesh-bhandari-0371b5294)  
 
-Tech Used: Django, SQLite, HTML/CSS
 
-♟️ Chess Engine - Pure Neural Network AI
-
-Description: A unique chess AI built from scratch using a 100% custom neural network trained solely on my own gameplay data. It adapts to my skill level and offers personalized training feedback.
-
-Tech Used: Python, PyTorch, Neural Networks, Custom Training Loops
-
-🌱 Currently Expanding My Skills In
-Deep dive into advanced Django patterns and WebSocket implementations.
-
-Designing and optimizing scalable data pipelines for Big Data.
-
-Fullstack JavaScript development.
-
-Advanced Machine Learning techniques and model deployment strategies.
-
-Exploring various aspects of Big Data engineering ecosystems.
-
-📫 Get in Touch!
-Feel free to reach out to discuss data, AI, backend systems, or potential collaborations!
-
-Email: bhanrit@gmail.com
-
-LinkedIn: linkedin.com/in/ritesh-bhandari-0371b5294
