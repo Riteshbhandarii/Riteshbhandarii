@@ -1,67 +1,47 @@
-# 👋 Hi, I'm Ritesh Bhandari  
-**Data & AI Engineering student passionate about building scalable systems and extracting insights from data.**
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/Riteshbhandarii">Ritesh Bhandari</a></h1>
+<h3 align="center">💡 Data & AI Engineering Student | 🚀 Building Scalable Systems & Smart AI</h3>
 
 ---
 
-## 🎓 About Me  
-📚 Currently pursuing a degree in **Data & AI Engineering** at **Turku University of Applied Sciences**  
-🧠 Focus areas: **Data Engineering**, **Machine Learning**, and **Robust Backend Systems**  
-💻 Strong foundation in software development and building efficient data pipelines  
-🌱 Constantly exploring new technologies in **cloud computing**, **ML algorithms**, and **system design patterns**
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
 
 ---
 
-## 🛠 Technical Arsenal  
-- Python • Django • Django Channels • PostgreSQL • Redis  
-- Pandas • NumPy • Scikit-learn • PyTorch  
-- HTML • CSS • JavaScript  
-- Git • Docker • Linux  
-- REST APIs • WebSockets • ETL Pipelines  
+## 🛠 Tech Stack
+- **Languages & Frameworks:** Python • Django • Django Channels • JavaScript • HTML/CSS  
+- **Data & AI:** Pandas • NumPy • Scikit-learn • PyTorch  
+- **Databases & Tools:** PostgreSQL • Redis • Docker • Git • Linux  
+- **Concepts:** REST APIs • WebSockets • ETL Pipelines  
 
 ---
 
-## 🚀 Featured Projects  
-
-### 💬 [UmbraChat – Real-Time Messaging App](https://github.com/Riteshbhandarii/chat-systems)  
-**Description:** A robust real-time messaging web application built with Django Channels, WebSockets, Redis, and PostgreSQL.  
-Features include private/group chats, read receipts, friend requests, and a privacy-focused design.  
-**Tech Used:** Django, Django Channels, Redis, WebSockets, PostgreSQL, HTML/CSS/JS  
-🔗 [Live Demo](https://umbrachat.up.railway.app) ✨ *(Note: May take a moment to spin up on free tier)*
+## 🚀 Featured Projects
+- 💬 **UmbraChat** – Real-time messaging app (Django + Redis + WebSockets)  
+- 📊 **RetailFlow** – Automated ETL pipeline for retail analytics  
+- 📚 **BookShelf** – Book management app with CRUD features  
+- ♟️ **Chess Engine** – Neural network chess AI trained on my own gameplay  
 
 ---
 
-### 📊 RetailFlow – ETL Pipeline for Retail Analytics  
-**Description:** Designed and implemented an automated ETL pipeline to process and analyze retail order data, providing insights for business decisions.  
-**Tech Used:** Python, Pandas, PostgreSQL, ETL Concepts  
+## 🌱 Currently Exploring
+- Advanced Django & WebSocket patterns  
+- Big Data pipelines & ML model deployment  
+- Full-stack JavaScript development  
 
 ---
 
-### 📚 BookShelf – Django Book Management App  
-**Description:** A full-stack web application for managing a personal book collection, including CRUD functionalities.  
-**Tech Used:** Django, SQLite, HTML/CSS  
-
----
-
-### ♟️ Chess Engine – Pure Neural Network AI  
-**Description:** A unique chess AI built from scratch using a custom neural network trained on my own gameplay data.  
-It adapts to my skill level and offers personalized training feedback.  
-**Tech Used:** Python, PyTorch, Neural Networks, Custom Training Loops  
-
----
-
-## 🌱 Currently Expanding My Skills In  
-- Advanced Django patterns and WebSocket implementations  
-- Scalable Big Data pipelines  
-- Fullstack JavaScript development  
-- Model deployment strategies for ML systems  
-- Big Data engineering ecosystems  
-
----
-
-## 📫 Get in Touch!  
-I'm always open to discussing data, AI, backend systems, or potential collaborations!  
-
-📧 Email: [bhanrit@gmail.com](mailto:bhanrit@gmail.com)  
-🔗 LinkedIn: [ritesh-bhandari-0371b5294](https://www.linkedin.com/in/ritesh-bhandari-0371b5294/)
+## 📫 Connect with Me  
+<p align="center">
+  <a href="mailto:bhanrit@gmail.com"><img src="https://img.shields.io/badge/Email-bhanrit%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ritesh-bhandari-0371b5294"><img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Bhandari-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 
