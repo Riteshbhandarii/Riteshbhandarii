@@ -1,31 +1,27 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm <a href="https://github.com/Riteshbhandarii">Ritesh Bhandari</a></h1>
-<h3 align="center">💡 Data & AI Engineering Student | 🚀 Building Scalable Systems & Smart AI</h3>
+## 👋 Hi, I'm Ritesh Bhandari
+
+💡 Data & AI Engineering Student | 🚀 Building Scalable Systems & Smart AI
 
 ---
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-## Hey, I'm Ritesh 👋
-
-ML Engineer building intelligent systems with deep learning and advanced data pipelines.
+### 🔬 What I'm Working On
+Currently building a **chess engine using RNN** trained on real gameplay data. Focused on deep learning architectures, neural network optimization, and building intelligent systems that learn from experience.
 
 ### 🛠️ Tech Stack
 **ML/AI:** PyTorch • Scikit-learn • NumPy • Pandas  
 **Data Engineering:** PostgreSQL • Redis • ETL Pipelines • Docker  
-**Languages:** Python • SQL
+**Core:** Python • SQL • Linux
 
-### 🚀 Current Focus
-Building a chess engine using RNN trained on real gameplay data
+### 🌱 Currently Exploring
+- Deep Learning & advanced neural architectures
+- Data Engineering at scale
+- ML model optimization & deployment
+- Production ML pipelines
 
 ### 📌 Featured Projects
-**♟️ Chess Engine** – Neural network-based chess AI with custom training pipeline  
-**📊 RetailFlow** – Automated ETL system for retail analytics at scale  
-**💬 UmbraChat** – Real-time messaging with Django Channels & Redis
-
-### 🔍 Exploring
-Deep Learning architectures • Advanced Data Engineering • ML model optimization
+**♟️ Chess Engine** – RNN-based chess AI with custom training pipeline  
+**📊 RetailFlow** – Automated ETL system for retail analytics  
+**💬 UmbraChat** – Real-time messaging infrastructure
 
 ---
 
