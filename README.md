@@ -5,11 +5,11 @@
 ---
 
 ### 🛠️ Tech Stack
-**ML/AI:** PyTorch • Scikit-learn • NumPy • Pandas  
-**Data Engineering:** PostgreSQL • Redis • ETL Pipelines • Docker  
-**Core:** Python • SQL • Linux
+**ML/AI:** PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas  
+**Data Engineering:** Apache Airflow • PostgreSQL • Redis • SQLite • ETL Pipelines  
+**Backend:** Django • Django Channels • Daphne  
+**Tools:** Docker • Git • Linux • Jupyter
 
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riteshbhandarii&theme=dark&hide_border=true)
-
