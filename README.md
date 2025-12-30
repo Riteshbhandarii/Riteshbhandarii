@@ -11,5 +11,3 @@
 **Tools:** Docker • Git • Linux • Jupyter
 
 ---
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riteshbhandarii&theme=dark&hide_border=true)
