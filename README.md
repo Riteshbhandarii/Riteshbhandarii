@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ritesh Bhandari
 
 💡 **Data** & AI Engineering Student | 🚀 Deep Learning & Production ML Pipelines  
-👀 ![Profile Views](https://komarev.com/ghpvc/?username=Riteshbhandarii&style=flat-square) [web:12]
 
+👀 ![Profile Views](https://komarev.com/ghpvc/?username=Riteshbhandarii&style=flat-square) 
 ---
 
 ## 🎯 What I'm Building
