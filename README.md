@@ -1,22 +1,37 @@
-# 👋 Hi, I'm Ritesh Bhandari  
+# 👋 Hi, I'm Ritesh Bhandari
 
-![Profile Views](https://komarev.com/ghpvc/?username=Riteshbhandarii&style=for-the-badge&label=PROFILE+VIEWS&color=blueviolet)
+Data & **AI** Engineering student working on deep learning, MLOps, and backend systems.  
+Interested in turning ML models and data pipelines into real, production‑ready products.
 
-💡 Data & AI Engineering Student &nbsp;|&nbsp; 🚀 Deep Learning & Production ML Pipelines  
+---
+
+## 🧠 Interests
+
+- Deep learning and ML training workflows  
+- Data engineering (ETL, orchestration, storage)  
+- Backend APIs and real‑time applications  
+- Clean architecture and automation
 
 ---
 
 ## 🛠️ Tech Stack
 
-**ML / AI**  
-PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas  
+**ML / Data**  
+PyTorch · TensorFlow · Scikit‑learn · NumPy · Pandas  
+Airflow · PostgreSQL · SQLite · Redis  
 
-**Data Engineering**  
-Apache Airflow • PostgreSQL • Redis • SQLite • ETL Pipelines  
+**Backend / Frontend**  
+Django · Django REST · Django Channels · FastAPI  
+React · TypeScript  
 
-**Backend**  
-Django • Django Channels • Daphne  
+**DevOps & Tools**  
+Docker · Git/GitHub · Linux · VS Code
 
-**Tools**  
-Docker • Git • Linux • Jupyter  
+---
 
+## 📌 Current Focus
+
+- Thesis and data engineering project around reliable ML/data pipelines  
+- Full‑stack portfolio hub (React + Python backend) with editable content
+
+---
